@@ -30,8 +30,8 @@ exports.refreshAccessToken = refreshAccessToken;
 
 var credentials = {
     client: {
-        id: '90b2fe3f-b726-494b-b318-959f5d1950bf',
-        secret: 'bQtcI+FYqer1iX2UcZSxgH5mq+qlTr/a8nGZAcOSyno=',
+        id: 'xxxxxx',
+        secret: 'xxxxxxxxx',
     },
     auth: {
         tokenHost: 'https://login.microsoftonline.com',
