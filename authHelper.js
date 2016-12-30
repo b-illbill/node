@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-/**
- * Created by durka on 12/30/16.
- */
+/* Created by durka on 12/30/16. */
 
 var redirectUri = 'http://localhost:8000/authorize';
 
@@ -64,4 +61,4 @@ function getTokenFromCode(auth_code, callback, response) {
 exports.getTokenFromCode = getTokenFromCode;
 =======
 asdf
->>>>>>> github/master
+>>>>>>> github/master;
