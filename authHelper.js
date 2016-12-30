@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * Created by durka on 12/30/16.
  */
@@ -61,3 +62,6 @@ function getTokenFromCode(auth_code, callback, response) {
 }
 
 exports.getTokenFromCode = getTokenFromCode;
+=======
+asdf
+>>>>>>> github/master
