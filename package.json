@@ -1,15 +1,19 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
+  "name": "node",
+  "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "index.js"
-  },
-  "author": "",
-  "license": "ISC",
   "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "outlook",
+    "microsoft"
+  ],
+  "author": "bill",
+  "license": "ISC",
   "dependencies": {
     "node-outlook": "^1.1.6",
-    "simple-oauth2": "^1.0.2"
+    "simple-oauth2": "^0.7.0"
   }
 }
